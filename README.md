@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jack
-- 🌱 Currently as a game developer, my main working platform is Unity 3D.
-- 📫 jack.truonghoanghiep@gmail.com is my business email.
+- 🌱 As a game developer at present, Unity 3D is my working platform for most of time.
+- 📫 Send an email to jack.truonghoanghiep@gmail.com if ya wanna contact me. 
+Thank for attention
 
 <!---
 jackthh/jackthh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
