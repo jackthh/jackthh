@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack
-- 🌱 As a game developer at present, Unity 3D is my working platform for most of time.
+- 🌱 As a game developer at present, Unity 3D is my working platform for most of the time.
 - 📫 Send an email to jack.truonghoanghiep@gmail.com if ya wanna contact me. 
 <br/>Thank for attention
 
